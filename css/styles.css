@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family:arial,merriweather;
+}
+
+h1,h2{
+  color: #66BFBF;
+}
+h2{
+  font-size: 30px;
+}
+h3,a{
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 30px;
+}
+
+.name{
+  font-family: Sacramento;
+  font-size: 90px;
+}
+.title{
+  font-family: Pangolin;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+/* .top-cloud {
+  position: absolute;
+  right: 255px;
+  top: 95px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 150px;
+  left:240px;
+} */
+
+.profile img{
+  width: 15%;
+}
+.profile p{
+  font-weight: bold;
+  color: #40514E;
+}
+
+.line{
+  border: none;
+  border-bottom: dotted 10px #EAF6F6;
+  margin:70px auto;
+  width: 75px;
+}
+
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-image1{
+  width: 25%;
+  float: left;
+  margin-right:30px;
+}
+.code-image2{
+  width: 25%;
+  float: right;
+  margin-right:30px;
+}
+
+
+.profile img{
+  margin: 20px 0;
+}
+
+
+.btn{
+  color: white;
+  background: #66BFBF;
+  padding: 10px;
+  margin: 10px;
+  margin-bottom:40px;
+  border-radius: 15%;
+  font-size: larger;
+
+}
+
+.bottom-container{
+  background: #66BFBF;
+  padding-bottom: 0.5%;
+  padding-top: 1%;
+}
+.footer-link{
+  text-decoration:none;
+  margin: 0 20px;
+  color: #11999E;
+  font-size: 1.1em;
+}
+.footer-link:hover{
+  text-decoration:none;
+  margin: 0 20px;
+  color: #11999E;
+  font-size: 1.1em;
+  color: black;
+}
+.bottom-container p{
+  color: white;
+}
